@@ -1,0 +1,8 @@
+{
+    "name" :"@bbhalki1/tinylibrary",
+    "version": "2.0.0",
+    "description": "Remove spaces in a given string",
+    "license": "MIT",
+    "repository": "tinyLibrary",
+    "main": "app.js"
+}
